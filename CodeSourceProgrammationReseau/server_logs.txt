@@ -1,0 +1,1006 @@
+2023-11-26 22:07 - INFO - Serveur en écoute sur le port 12354
+2023-11-26 22:08 - INFO - Serveur en écoute sur le port 12344
+2023-11-26 22:12 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 22:12 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 22:13 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 22:32 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 22:32 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 22:33 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 23:02 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 23:02 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 23:03 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 23:03 - ERROR - Connexion perdue brusquement avec le client.
+2023-11-26 23:03 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 23:03 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-26 23:03 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 23:04 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-26 23:04 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 23:07 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 23:07 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 23:09 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 23:09 - INFO - Connexion établie avec ('127.0.0.1', 55103)
+2023-11-26 23:10 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 23:17 - INFO - Connexion établie avec ('127.0.0.1', 55129)
+2023-11-26 23:18 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 23:18 - INFO - Connexion établie avec ('127.0.0.1', 55133)
+2023-11-26 23:18 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-26 23:18 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 23:20 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 23:20 - INFO - Connexion établie avec ('127.0.0.1', 55154)
+2023-11-26 23:21 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-26 23:21 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 23:22 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 23:22 - INFO - Connexion établie avec ('127.0.0.1', 55166)
+2023-11-26 23:22 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 23:22 - INFO - Connexion établie avec ('127.0.0.1', 55169)
+2023-11-26 23:23 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-26 23:23 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 23:34 - INFO - Connexion établie avec ('127.0.0.1', 55203)
+2023-11-26 23:34 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 23:34 - INFO - Connexion établie avec ('127.0.0.1', 55205)
+2023-11-26 23:34 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 23:35 - INFO - Connexion établie avec ('127.0.0.1', 55225)
+2023-11-26 23:36 - ERROR - 
+Arrêt du serveur suite à une interruption clavier (Ctrl+C).
+2023-11-26 23:36 - INFO - Serveur en écoute sur le port 12454
+2023-11-26 23:36 - INFO - Serveur en écoute sur le port 12345
+2023-11-26 23:36 - INFO - Connexion établie avec ('127.0.0.1', 55232)
+la date : 2023-11-26 23:36 - Client ID: 220046644, Numéro de Caisse: 1
+2023-11-26 23:36 - INFO - Serveur en écoute sur le port 12345
+2023-11-26 23:48 - INFO - Serveur en écoute sur le port 12345
+2023-11-26 23:49 - INFO - Connexion établie avec ('127.0.0.1', 55294)
+2023-11-26 23:49 - ERROR - Erreur de format détectée, client déconnecté.
+2023-11-26 23:49 - INFO - Serveur en écoute sur le port 12345
+2023-11-26 23:50 - INFO - Serveur en écoute sur le port 12345
+2023-11-26 23:50 - INFO - Connexion établie avec ('127.0.0.1', 55319)
+2023-11-26 23:51 - INFO - Serveur en écoute sur le port 12345
+2023-11-26 23:52 - INFO - Connexion établie avec ('127.0.0.1', 55350)
+2023-11-26 23:53 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-26 23:53 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:06 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:06 - INFO - Connexion établie avec ('127.0.0.1', 55383)
+la date : 2023-11-27 00:06 - Client ID: 220046644, Numéro de Caisse: 1
+2023-11-27 00:07 - ERROR - Une erreur inattendue est survenue: local variable 'date_commande' referenced before assignment
+2023-11-27 00:07 - ERROR - Fin de la connexion avec le client.
+2023-11-27 00:07 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:08 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:08 - INFO - Connexion établie avec ('127.0.0.1', 55397)
+2023-11-27 00:08 - ERROR - Connexion perdue brusquement avec le client.
+2023-11-27 00:08 - ERROR - Fin de la connexion avec le client.
+2023-11-27 00:08 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:08 - INFO - Connexion établie avec ('127.0.0.1', 55398)
+2023-11-27 00:08 - ERROR - Fin de la connexion avec le client.
+2023-11-27 00:08 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:08 - INFO - Connexion établie avec ('127.0.0.1', 55400)
+la date : 2023-11-27 00:08 - Client ID: 220046644, Numéro de Caisse: 1
+2023-11-27 00:09 - ERROR - Une erreur inattendue est survenue: insert or update on table "encaisser" violates foreign key constraint "encaisser_id_caisse_fkey"
+DETAIL:  Key (id_caisse)=(1     ) is not present in table "caisse".
+
+2023-11-27 00:09 - ERROR - Fin de la connexion avec le client.
+2023-11-27 00:09 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:12 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:12 - INFO - Connexion établie avec ('127.0.0.1', 55420)
+la date : 2023-11-27 00:12 - Client ID: 220046644, Numéro de Caisse: 100000
+2023-11-27 00:12 - ERROR - Fin de la connexion avec le client.
+2023-11-27 00:12 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:18 - INFO - Connexion établie avec ('127.0.0.1', 55445)
+2023-11-27 00:18 - ERROR - 
+Arrêt du serveur suite à une interruption clavier (Ctrl+C).
+2023-11-27 00:18 - ERROR - Fin de la connexion avec le client.
+2023-11-27 00:18 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:18 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:18 - INFO - Connexion établie avec ('127.0.0.1', 55447)
+2023-11-27 00:18 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 00:18 - ERROR - Fin de la connexion avec le client.
+2023-11-27 00:18 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:19 - INFO - Connexion établie avec ('127.0.0.1', 55449)
+2023-11-27 00:19 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 00:19 - ERROR - Fin de la connexion avec le client.
+2023-11-27 00:19 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:19 - INFO - Connexion établie avec ('127.0.0.1', 55452)
+2023-11-27 00:19 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 00:19 - ERROR - Fin de la connexion avec le client.
+2023-11-27 00:19 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:19 - INFO - Connexion établie avec ('127.0.0.1', 55463)
+la date : 2023-11-27 00:19 - Client ID: , Numéro de Caisse: 100000
+2023-11-27 00:19 - ERROR - Fin de la connexion avec le client.
+2023-11-27 00:19 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:19 - INFO - Connexion établie avec ('127.0.0.1', 55467)
+2023-11-27 00:19 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 00:19 - ERROR - Fin de la connexion avec le client.
+2023-11-27 00:19 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:19 - INFO - Connexion établie avec ('127.0.0.1', 55469)
+2023-11-27 00:19 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 00:19 - ERROR - Fin de la connexion avec le client.
+2023-11-27 00:19 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:19 - INFO - Connexion établie avec ('127.0.0.1', 55472)
+2023-11-27 00:19 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 00:19 - ERROR - Fin de la connexion avec le client.
+2023-11-27 00:19 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:20 - INFO - Connexion établie avec ('127.0.0.1', 55477)
+la date : 2023-11-27 00:20 - Client ID: 220046644, Numéro de Caisse: 100000
+2023-11-27 00:20 - ERROR - Fin de la connexion avec le client.
+2023-11-27 00:20 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:22 - INFO - Connexion établie avec ('127.0.0.1', 55509)
+2023-11-27 00:22 - ERROR - Fin de la connexion avec le client.
+2023-11-27 00:22 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:22 - INFO - Connexion établie avec ('127.0.0.1', 55510)
+la date : 2023-11-27 00:22 - Client ID: 220046644, Numéro de Caisse: 100000
+2023-11-27 00:23 - ERROR - Une opération a été tentée sur autre chose qu’un socket , ce qui ferme le client .
+2023-11-27 00:23 - ERROR - Fin de la connexion avec le client.
+2023-11-27 00:23 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:23 - INFO - Connexion établie avec ('127.0.0.1', 55519)
+la date : 2023-11-27 00:23 - Client ID: 220046644, Numéro de Caisse: 100000
+2023-11-27 00:23 - ERROR - Fin de la connexion avec le client.
+2023-11-27 00:23 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:50 - INFO - Connexion établie avec ('127.0.0.1', 55643)
+2023-11-27 00:50 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-27 00:50 - ERROR - Fin de la connexion avec le client.
+2023-11-27 00:50 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:52 - INFO - Connexion établie avec ('127.0.0.1', 55649)
+2023-11-27 00:52 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 00:52 - ERROR - Fin de la connexion avec le client.
+2023-11-27 00:52 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:52 - INFO - Connexion établie avec ('127.0.0.1', 55651)
+2023-11-27 00:52 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-27 00:52 - ERROR - Fin de la connexion avec le client.
+2023-11-27 00:52 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 00:55 - INFO - Connexion établie avec ('127.0.0.1', 55657)
+2023-11-27 00:55 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-27 00:55 - ERROR - Fin de la connexion avec le client.
+2023-11-27 00:55 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 01:12 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 01:12 - INFO - Connexion établie avec ('127.0.0.1', 55710)
+2023-11-27 01:12 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-27 01:12 - ERROR - Fin de la connexion avec le client.
+2023-11-27 01:12 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 01:36 - INFO - Connexion établie avec ('127.0.0.1', 55842)
+la date : 2023-11-27 01:36 - Client ID: , Numéro de Caisse: 100000
+2023-11-27 01:36 - ERROR - Fin de la connexion avec le client.
+2023-11-27 01:36 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 01:42 - INFO - Connexion établie avec ('127.0.0.1', 55872)
+2023-11-27 01:43 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-27 01:43 - ERROR - Fin de la connexion avec le client.
+2023-11-27 01:43 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 01:45 - INFO - Connexion établie avec ('127.0.0.1', 55926)
+2023-11-27 01:46 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-27 01:46 - ERROR - Fin de la connexion avec le client.
+2023-11-27 01:46 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 01:51 - INFO - Connexion établie avec ('127.0.0.1', 55949)
+2023-11-27 01:51 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 01:51 - ERROR - Fin de la connexion avec le client.
+2023-11-27 01:51 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 01:51 - INFO - Connexion établie avec ('127.0.0.1', 55952)
+la date : 2023-11-27 01:51 - Client ID: 220046644, Numéro de Caisse: 100000
+2023-11-27 01:51 - ERROR - Fin de la connexion avec le client.
+2023-11-27 01:51 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 01:52 - INFO - Connexion établie avec ('127.0.0.1', 55967)
+2023-11-27 01:52 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 01:52 - ERROR - Fin de la connexion avec le client.
+2023-11-27 01:52 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 01:52 - INFO - Connexion établie avec ('127.0.0.1', 55969)
+2023-11-27 01:52 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 01:52 - ERROR - Fin de la connexion avec le client.
+2023-11-27 01:52 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 01:54 - INFO - Connexion établie avec ('127.0.0.1', 55981)
+2023-11-27 01:54 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 01:54 - ERROR - Fin de la connexion avec le client.
+2023-11-27 01:54 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 01:54 - INFO - Connexion établie avec ('127.0.0.1', 55983)
+2023-11-27 01:55 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 01:55 - ERROR - Fin de la connexion avec le client.
+2023-11-27 01:55 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 01:55 - INFO - Connexion établie avec ('127.0.0.1', 55985)
+la date : 2023-11-27 01:55 - Client ID: , Numéro de Caisse: 100000
+2023-11-27 01:55 - ERROR - Fin de la connexion avec le client.
+2023-11-27 01:55 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 01:56 - INFO - Connexion établie avec ('127.0.0.1', 55991)
+la date : 2023-11-27 01:56 - Client ID: , Numéro de Caisse: 100000
+2023-11-27 01:56 - ERROR - Fin de la connexion avec le client.
+2023-11-27 01:56 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 01:56 - INFO - Connexion établie avec ('127.0.0.1', 55994)
+la date : 2023-11-27 01:56 - Client ID: 220046644, Numéro de Caisse: 100000
+2023-11-27 01:56 - ERROR - Connexion abandonnée par le client.
+2023-11-27 01:56 - ERROR - Fin de la connexion avec le client.
+2023-11-27 01:56 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 01:56 - INFO - Connexion établie avec ('127.0.0.1', 56000)
+2023-11-27 01:56 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 01:56 - ERROR - Fin de la connexion avec le client.
+2023-11-27 01:56 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 01:57 - INFO - Connexion établie avec ('127.0.0.1', 56002)
+la date : 2023-11-27 01:57 - Client ID: , Numéro de Caisse: 100000
+2023-11-27 01:57 - ERROR - Fin de la connexion avec le client.
+2023-11-27 01:57 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 01:57 - INFO - Connexion établie avec ('127.0.0.1', 56005)
+2023-11-27 01:57 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 01:57 - ERROR - Fin de la connexion avec le client.
+2023-11-27 01:57 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 01:57 - INFO - Connexion établie avec ('127.0.0.1', 56007)
+2023-11-27 01:57 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 01:57 - ERROR - Fin de la connexion avec le client.
+2023-11-27 01:57 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 01:58 - INFO - Connexion établie avec ('127.0.0.1', 56010)
+2023-11-27 01:58 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 01:58 - ERROR - Fin de la connexion avec le client.
+2023-11-27 01:58 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 01:59 - INFO - Connexion établie avec ('127.0.0.1', 56014)
+la date : 2023-11-27 01:59 - Client ID: , Numéro de Caisse: 100000
+2023-11-27 01:59 - ERROR - Fin de la connexion avec le client.
+2023-11-27 01:59 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 01:59 - INFO - Connexion établie avec ('127.0.0.1', 56017)
+2023-11-27 01:59 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 01:59 - ERROR - Fin de la connexion avec le client.
+2023-11-27 01:59 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 02:00 - INFO - Connexion établie avec ('127.0.0.1', 56022)
+la date : 2023-11-27 02:00 - Client ID: a, Numéro de Caisse: 100000
+2023-11-27 02:00 - ERROR - Fin de la connexion avec le client.
+2023-11-27 02:00 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 02:04 - INFO - Connexion établie avec ('127.0.0.1', 56050)
+2023-11-27 02:04 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 02:04 - ERROR - Fin de la connexion avec le client.
+2023-11-27 02:04 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 08:07 - INFO - Connexion établie avec ('127.0.0.1', 41484)
+2023-11-27 08:07 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 08:07 - ERROR - Fin de la connexion avec le client.
+2023-11-27 08:07 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 08:08 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 08:08 - INFO - Connexion établie avec ('127.0.0.1', 41488)
+2023-11-27 08:08 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 08:08 - ERROR - Fin de la connexion avec le client.
+2023-11-27 08:08 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 08:08 - INFO - Connexion établie avec ('127.0.0.1', 41490)
+2023-11-27 08:08 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 08:08 - ERROR - Fin de la connexion avec le client.
+2023-11-27 08:08 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 08:08 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 08:08 - INFO - Connexion établie avec ('127.0.0.1', 41494)
+la date : 2023-11-27 08:09 - Client ID: 220046644, Numéro de Caisse: 100000
+2023-11-27 08:09 - ERROR - Fin de la connexion avec le client.
+2023-11-27 08:09 - INFO - Serveur en écoute sur le port 12345
+2023-11-27 17:39 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 17:40 - INFO - Connexion établie avec ('127.0.0.1', 50082)
+2023-11-27 17:40 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 17:40 - ERROR - Fin de la connexion avec le client.
+2023-11-27 17:40 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 17:42 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 17:42 - INFO - Connexion établie avec ('127.0.0.1', 50113)
+2023-11-27 17:42 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 17:42 - ERROR - Fin de la connexion avec le client.
+2023-11-27 17:42 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 17:43 - INFO - Connexion établie avec ('127.0.0.1', 50119)
+2023-11-27 17:43 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 17:43 - ERROR - Fin de la connexion avec le client.
+2023-11-27 17:43 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 17:43 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 17:43 - INFO - Connexion établie avec ('127.0.0.1', 50123)
+2023-11-27 17:43 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 17:43 - ERROR - Fin de la connexion avec le client.
+2023-11-27 17:43 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 17:43 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 17:44 - INFO - Connexion établie avec ('127.0.0.1', 50126)
+2023-11-27 17:44 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-27 17:44 - ERROR - Fin de la connexion avec le client.
+2023-11-27 17:44 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 17:46 - INFO - Connexion établie avec ('127.0.0.1', 50135)
+2023-11-27 17:46 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 17:46 - ERROR - Fin de la connexion avec le client.
+2023-11-27 17:46 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 17:46 - INFO - Connexion établie avec ('127.0.0.1', 50137)
+2023-11-27 17:46 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-27 17:46 - ERROR - Fin de la connexion avec le client.
+2023-11-27 17:46 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 17:46 - INFO - Connexion établie avec ('127.0.0.1', 50140)
+2023-11-27 17:47 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-27 17:47 - ERROR - Fin de la connexion avec le client.
+2023-11-27 17:47 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 17:47 - INFO - Connexion établie avec ('127.0.0.1', 50141)
+la date : 2023-11-27 17:47 - Client ID: 9843672832E, Numéro de Caisse: 100000
+2023-11-27 17:47 - ERROR - Fin de la connexion avec le client.
+2023-11-27 17:47 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 17:52 - INFO - Connexion établie avec ('127.0.0.1', 50176)
+2023-11-27 17:52 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 17:52 - ERROR - Fin de la connexion avec le client.
+2023-11-27 17:52 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 17:52 - INFO - Connexion établie avec ('127.0.0.1', 50178)
+la date : 2023-11-27 17:52 - Client ID: 9843672832E, Numéro de Caisse: 100000
+2023-11-27 17:53 - ERROR - Connexion abandonnée par le client.
+2023-11-27 17:53 - ERROR - Fin de la connexion avec le client.
+2023-11-27 17:53 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 17:55 - INFO - Connexion établie avec ('127.0.0.1', 50193)
+2023-11-27 17:55 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 17:55 - ERROR - Fin de la connexion avec le client.
+2023-11-27 17:55 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 17:55 - INFO - Connexion établie avec ('127.0.0.1', 50196)
+la date : 2023-11-27 17:55 - Client ID: 9843672832E, Numéro de Caisse: 100000
+2023-11-27 17:56 - ERROR - Fin de la connexion avec le client.
+2023-11-27 17:56 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 18:06 - INFO - Connexion établie avec ('127.0.0.1', 50261)
+2023-11-27 18:07 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-27 18:07 - ERROR - Fin de la connexion avec le client.
+2023-11-27 18:07 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 18:13 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 18:13 - INFO - Connexion établie avec ('127.0.0.1', 50371)
+2023-11-27 18:14 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-27 18:14 - ERROR - Fin de la connexion avec le client.
+2023-11-27 18:14 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 18:14 - INFO - Connexion établie avec ('127.0.0.1', 50376)
+la date : 2023-11-27 18:14 - Client ID: 1254367890P, Numéro de Caisse: 100000
+2023-11-27 18:15 - ERROR - Une opération a été tentée sur autre chose qu’un socket , ce qui ferme le client .
+2023-11-27 18:15 - ERROR - Fin de la connexion avec le client.
+2023-11-27 18:15 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 18:15 - INFO - Connexion établie avec ('127.0.0.1', 50389)
+la date : 2023-11-27 18:15 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-11-27 18:16 - ERROR - Fin de la connexion avec le client.
+2023-11-27 18:16 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 18:16 - INFO - Connexion établie avec ('127.0.0.1', 50405)
+2023-11-27 18:16 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 18:16 - ERROR - Fin de la connexion avec le client.
+2023-11-27 18:16 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 18:28 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 18:28 - INFO - Serveur en écoute sur le port 12354
+2023-11-27 18:28 - INFO - Connexion établie avec ('127.0.0.1', 50482)
+2023-11-27 18:28 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 18:28 - ERROR - Fin de la connexion avec le client.
+2023-11-27 18:28 - INFO - Serveur en écoute sur le port 12354
+2023-11-27 18:29 - INFO - Connexion établie avec ('127.0.0.1', 50487)
+2023-11-27 18:29 - ERROR - Connexion perdue brusquement avec le client.
+2023-11-27 18:29 - ERROR - Fin de la connexion avec le client.
+2023-11-27 18:29 - INFO - Serveur en écoute sur le port 12354
+2023-11-27 18:30 - INFO - Serveur en écoute sur le port 12354
+2023-11-27 18:30 - INFO - Connexion établie avec ('127.0.0.1', 50501)
+la date : 2023-11-27 18:30 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-11-27 18:31 - ERROR - Fin de la connexion avec le client.
+2023-11-27 18:31 - INFO - Serveur en écoute sur le port 12354
+2023-11-27 18:33 - INFO - Serveur en écoute sur le port 12354
+2023-11-27 18:33 - INFO - Connexion établie avec ('127.0.0.1', 50535)
+la date : 2023-11-27 18:33 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-11-27 18:34 - ERROR - Une opération a été tentée sur autre chose qu’un socket , ce qui ferme le client .
+2023-11-27 18:34 - ERROR - Fin de la connexion avec le client.
+2023-11-27 18:34 - INFO - Serveur en écoute sur le port 12354
+2023-11-27 18:35 - INFO - Serveur en écoute sur le port 12354
+2023-11-27 18:35 - INFO - Connexion établie avec ('127.0.0.1', 50554)
+la date : 2023-11-27 18:35 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-11-27 18:35 - ERROR - Fin de la connexion avec le client.
+2023-11-27 18:35 - INFO - Serveur en écoute sur le port 12354
+2023-11-27 18:39 - INFO - Serveur en écoute sur le port 12354
+2023-11-27 18:39 - INFO - Connexion établie avec ('127.0.0.1', 50594)
+la date : 2023-11-27 18:39 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-11-27 18:40 - ERROR - Fin de la connexion avec le client.
+2023-11-27 18:40 - INFO - Serveur en écoute sur le port 12354
+2023-11-27 18:50 - INFO - Serveur en écoute sur le port 12354
+2023-11-27 18:50 - INFO - Connexion établie avec ('127.0.0.1', 50698)
+la date : 2023-11-27 18:50 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-11-27 18:50 - ERROR - Fin de la connexion avec le client.
+2023-11-27 18:50 - INFO - Serveur en écoute sur le port 12354
+2023-11-27 18:53 - INFO - Serveur en écoute sur le port 12354
+2023-11-27 18:53 - INFO - Connexion établie avec ('127.0.0.1', 50719)
+la date : 2023-11-27 18:54 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-11-27 18:54 - ERROR - Connexion perdue brusquement avec le client.
+2023-11-27 18:54 - ERROR - Fin de la connexion avec le client.
+2023-11-27 18:54 - INFO - Serveur en écoute sur le port 12354
+2023-11-27 18:55 - INFO - Serveur en écoute sur le port 12354
+2023-11-27 18:55 - INFO - Connexion établie avec ('127.0.0.1', 50732)
+la date : 2023-11-27 18:55 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-11-27 18:56 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-27 18:56 - ERROR - Fin de la connexion avec le client.
+2023-11-27 18:56 - INFO - Serveur en écoute sur le port 12354
+2023-11-27 19:39 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 19:39 - INFO - Connexion établie avec ('127.0.0.1', 50884)
+la date : 2023-11-27 19:40 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-11-27 19:40 - ERROR - Connexion perdue brusquement avec le client.
+2023-11-27 19:40 - ERROR - Fin de la connexion avec le client.
+2023-11-27 19:40 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:17 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:17 - INFO - Connexion établie avec ('127.0.0.1', 51115)
+2023-11-27 20:17 - ERROR - Une erreur inattendue est survenue: 'charmap' codec can't encode character '\ufffd' in position 52: character maps to <undefined>
+2023-11-27 20:17 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:17 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:19 - INFO - Connexion établie avec ('127.0.0.1', 51127)
+la date : 2023-11-27 20:20 - Client ID: sefiumhlkdhflmsdj_-, Numéro de Caisse: 100000
+2023-11-27 20:20 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:20 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:20 - INFO - Connexion établie avec ('127.0.0.1', 51130)
+la date : 2023-11-27 20:20 - Client ID: shmdoumljhdflmsjnd__, Numéro de Caisse: 100000
+2023-11-27 20:20 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:20 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:27 - INFO - Connexion établie avec ('127.0.0.1', 51159)
+2023-11-27 20:27 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 20:27 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:27 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:27 - INFO - Connexion établie avec ('127.0.0.1', 51163)
+la date : 2023-11-27 20:27 - Client ID: , Numéro de Caisse: 100000
+2023-11-27 20:27 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:27 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:27 - INFO - Connexion établie avec ('127.0.0.1', 51166)
+2023-11-27 20:27 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 20:27 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:27 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:28 - INFO - Connexion établie avec ('127.0.0.1', 51168)
+la date : 2023-11-27 20:28 - Client ID: kmdfs,mfk,ldfkn,ldfjnmdfkj, Numéro de Caisse: 100000
+2023-11-27 20:28 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:28 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:37 - INFO - Connexion établie avec ('127.0.0.1', 51207)
+la date : 2023-11-27 20:38 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-11-27 20:38 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-27 20:38 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:38 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:41 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:41 - INFO - Connexion établie avec ('127.0.0.1', 51232)
+la date : 2023-11-27 20:41 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-11-27 20:41 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-27 20:41 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:41 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:42 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:42 - INFO - Connexion établie avec ('127.0.0.1', 51245)
+2023-11-27 20:42 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:42 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:42 - INFO - Connexion établie avec ('127.0.0.1', 51247)
+la date : 2023-11-27 20:42 - Client ID: , Numéro de Caisse: 100000
+2023-11-27 20:42 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:42 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:43 - INFO - Connexion établie avec ('127.0.0.1', 51250)
+la date : 2023-11-27 20:43 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-11-27 20:43 - ERROR - Connexion perdue brusquement avec le client.
+2023-11-27 20:43 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:43 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:46 - INFO - Connexion établie avec ('127.0.0.1', 51273)
+la date : 2023-11-27 20:46 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-11-27 20:46 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:46 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:55 - INFO - Connexion établie avec ('127.0.0.1', 51306)
+2023-11-27 20:55 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:55 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:55 - INFO - Connexion établie avec ('127.0.0.1', 51308)
+2023-11-27 20:55 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:55 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:55 - INFO - Connexion établie avec ('127.0.0.1', 51311)
+2023-11-27 20:55 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:55 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:55 - INFO - Connexion établie avec ('127.0.0.1', 51313)
+la date : 2023-11-27 20:55 - Client ID: , Numéro de Caisse: 100000
+2023-11-27 20:55 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:55 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:55 - INFO - Connexion établie avec ('127.0.0.1', 51316)
+la date : 2023-11-27 20:55 - Client ID: , Numéro de Caisse: 100000
+2023-11-27 20:55 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:55 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:55 - INFO - Connexion établie avec ('127.0.0.1', 51319)
+la date : 2023-11-27 20:55 - Client ID: , Numéro de Caisse: 100000
+2023-11-27 20:55 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:55 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:56 - INFO - Connexion établie avec ('127.0.0.1', 51325)
+la date : 2023-11-27 20:56 - Client ID: 1245875690P, Numéro de Caisse: 100000
+2023-11-27 20:56 - ERROR - Connexion abandonnée par le client.
+2023-11-27 20:56 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:56 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:56 - INFO - Connexion établie avec ('127.0.0.1', 51331)
+la date : 2023-11-27 20:56 - Client ID: 1245875690P, Numéro de Caisse: 100000
+2023-11-27 20:57 - ERROR - Une opération a été tentée sur autre chose qu’un socket , ce qui ferme le client .
+2023-11-27 20:57 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:57 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:57 - INFO - Connexion établie avec ('127.0.0.1', 51341)
+la date : 2023-11-27 20:57 - Client ID: 1245875690P, Numéro de Caisse: 100000
+2023-11-27 20:57 - ERROR - Connexion abandonnée par le client.
+2023-11-27 20:57 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:57 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:57 - INFO - Connexion établie avec ('127.0.0.1', 51349)
+la date : 2023-11-27 20:57 - Client ID: diukfg, Numéro de Caisse: 100000
+2023-11-27 20:57 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:57 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:57 - INFO - Connexion établie avec ('127.0.0.1', 51353)
+la date : 2023-11-27 20:57 - Client ID: 1245875690P, Numéro de Caisse: 100000
+2023-11-27 20:58 - ERROR - erreur dans la saisie de la commande
+2023-11-27 20:58 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:58 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 20:58 - INFO - Connexion établie avec ('127.0.0.1', 51361)
+la date : 2023-11-27 20:58 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-11-27 20:58 - ERROR - Fin de la connexion avec le client.
+2023-11-27 20:58 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 21:00 - INFO - Connexion établie avec ('127.0.0.1', 51377)
+la date : 2023-11-27 21:00 - Client ID: , Numéro de Caisse: 100000
+2023-11-27 21:00 - ERROR - Fin de la connexion avec le client.
+2023-11-27 21:00 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 21:15 - INFO - Connexion établie avec ('127.0.0.1', 51440)
+2023-11-27 21:15 - ERROR - Fin de la connexion avec le client.
+2023-11-27 21:15 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 21:15 - INFO - Connexion établie avec ('127.0.0.1', 51443)
+2023-11-27 21:15 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-27 21:15 - ERROR - Fin de la connexion avec le client.
+2023-11-27 21:15 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 21:16 - INFO - Connexion établie avec ('127.0.0.1', 51455)
+la date : 2023-11-27 21:16 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-11-27 21:16 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-27 21:16 - ERROR - Fin de la connexion avec le client.
+2023-11-27 21:16 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 21:17 - INFO - Connexion établie avec ('127.0.0.1', 51464)
+2023-11-27 21:17 - ERROR - Fin de la connexion avec le client.
+2023-11-27 21:17 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 21:17 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 21:17 - INFO - Connexion établie avec ('127.0.0.1', 51468)
+la date : 2023-11-27 21:17 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-11-27 21:17 - ERROR - Fin de la connexion avec le client.
+2023-11-27 21:17 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 21:18 - INFO - Connexion établie avec ('127.0.0.1', 51484)
+la date : 2023-11-27 21:18 - Client ID: 9843672832E, Numéro de Caisse: 100000
+2023-11-27 21:19 - ERROR - Fin de la connexion avec le client.
+2023-11-27 21:19 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 21:23 - INFO - Tentative de démarrage sur le port par défaut : 12344
+2023-11-27 21:23 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 21:25 - INFO - Tentative de démarrage sur le port par défaut : 12344
+2023-11-27 21:25 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 21:25 - INFO - Serveur en écoute sur le port 65000
+2023-11-27 21:25 - INFO - Connexion établie avec ('127.0.0.1', 51523)
+2023-11-27 21:26 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-27 21:26 - ERROR - Fin de la connexion avec le client.
+2023-11-27 21:26 - INFO - Serveur en écoute sur le port 65000
+2023-11-27 21:26 - INFO - Connexion établie avec ('127.0.0.1', 51528)
+la date : 2023-11-27 21:26 - Client ID: 1245875690P, Numéro de Caisse: 100000
+2023-11-27 21:26 - ERROR - erreur dans la saisie de la commande
+2023-11-27 21:26 - ERROR - Fin de la connexion avec le client.
+2023-11-27 21:26 - INFO - Serveur en écoute sur le port 65000
+2023-11-27 21:33 - INFO - Connexion établie avec ('127.0.0.1', 51559)
+la date : 2023-11-27 21:33 - Client ID: , Numéro de Caisse: 100000
+2023-11-27 21:33 - ERROR - Fin de la connexion avec le client.
+2023-11-27 21:33 - INFO - Serveur en écoute sur le port 65000
+2023-11-27 21:33 - INFO - Connexion établie avec ('127.0.0.1', 51562)
+la date : 2023-11-27 21:33 - Client ID: 650000, Numéro de Caisse: 100000
+2023-11-27 21:33 - ERROR - Fin de la connexion avec le client.
+2023-11-27 21:33 - INFO - Serveur en écoute sur le port 65000
+2023-11-27 21:33 - INFO - Connexion établie avec ('127.0.0.1', 51568)
+2023-11-27 21:33 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-27 21:33 - ERROR - Fin de la connexion avec le client.
+2023-11-27 21:33 - INFO - Serveur en écoute sur le port 65000
+2023-11-27 21:35 - INFO - Connexion établie avec ('127.0.0.1', 51576)
+la date : 2023-11-27 21:35 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-11-27 21:36 - ERROR - Fin de la connexion avec le client.
+2023-11-27 21:36 - INFO - Serveur en écoute sur le port 65000
+2023-11-27 22:03 - INFO - Connexion établie avec ('127.0.0.1', 51667)
+2023-11-27 22:03 - ERROR - erreur de format détectée , client déconnecté
+2023-11-27 22:03 - ERROR - Fin de la connexion avec le client.
+2023-11-27 22:03 - INFO - Serveur en écoute sur le port 65000
+2023-11-27 22:03 - INFO - Connexion établie avec ('127.0.0.1', 51669)
+2023-11-27 22:03 - ERROR - Fin de la connexion avec le client.
+2023-11-27 22:03 - INFO - Serveur en écoute sur le port 65000
+2023-11-27 22:43 - INFO - Connexion établie avec ('127.0.0.1', 51845)
+la date : 2023-11-27 22:43 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-11-27 22:43 - ERROR - Fin de la connexion avec le client.
+2023-11-27 22:43 - INFO - Serveur en écoute sur le port 65000
+2023-11-27 22:48 - INFO - Connexion établie avec ('127.0.0.1', 51877)
+2023-11-27 22:48 - ERROR - Fin de la connexion avec le client.
+2023-11-27 22:48 - INFO - Serveur en écoute sur le port 65000
+2023-11-27 22:48 - INFO - Connexion établie avec ('127.0.0.1', 51879)
+2023-11-27 22:49 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-11-27 22:49 - ERROR - Fin de la connexion avec le client.
+2023-11-27 22:49 - INFO - Serveur en écoute sur le port 65000
+2023-11-27 23:02 - INFO - Tentative de démarrage sur le port par défaut : 12344
+2023-11-27 23:02 - INFO - Serveur en écoute sur le port 12344
+2023-11-27 23:02 - INFO - Serveur en écoute sur le port 60000
+2023-11-27 23:03 - INFO - Connexion établie avec ('127.0.0.1', 51924)
+la date : 2023-11-27 23:03 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-11-27 23:03 - ERROR - Fin de la connexion avec le client.
+2023-11-27 23:03 - INFO - Serveur en écoute sur le port 60000
+2023-12-01 15:32 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 15:32 - INFO - Connexion établie avec ('127.0.0.1', 49972)
+2023-12-01 15:33 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-12-01 15:33 - ERROR - Fin de la connexion avec le client.
+2023-12-01 15:33 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 15:38 - INFO - Connexion établie avec ('127.0.0.1', 50026)
+la date : 2023-12-01 15:38 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-12-01 15:38 - ERROR - Connexion perdue brusquement avec le client.
+2023-12-01 15:38 - ERROR - Fin de la connexion avec le client.
+2023-12-01 15:38 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 15:38 - INFO - Connexion établie avec ('127.0.0.1', 50032)
+la date : 2023-12-01 15:38 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-12-01 15:39 - ERROR - Une opération a été tentée sur autre chose qu’un socket , ce qui ferme le client .
+2023-12-01 15:39 - ERROR - Fin de la connexion avec le client.
+2023-12-01 15:39 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 15:39 - INFO - Connexion établie avec ('127.0.0.1', 50043)
+la date : 2023-12-01 15:39 - Client ID: 9843672832E, Numéro de Caisse: 100000
+2023-12-01 15:39 - ERROR - Fin de la connexion avec le client.
+2023-12-01 15:39 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 15:40 - INFO - Connexion établie avec ('127.0.0.1', 50056)
+la date : 2023-12-01 15:40 - Client ID: 9843672832E, Numéro de Caisse: 100000
+2023-12-01 15:40 - ERROR - Fin de la connexion avec le client.
+2023-12-01 15:40 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 15:46 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 15:58 - INFO - Serveur en écoute sur le port 60050
+2023-12-01 16:03 - INFO - Connexion établie avec ('127.0.0.1', 50183)
+la date : 2023-12-01 16:03 - Client ID: 9843672832E, Numéro de Caisse: 100000
+2023-12-01 16:03 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-12-01 16:03 - ERROR - Fin de la connexion avec le client.
+2023-12-01 16:03 - INFO - Serveur en écoute sur le port 60050
+2023-12-01 16:04 - INFO - Connexion établie avec ('127.0.0.1', 50188)
+la date : 2023-12-01 16:04 - Client ID: 9843672832E, Numéro de Caisse: 100000
+2023-12-01 16:04 - ERROR - Fin de la connexion avec le client.
+2023-12-01 16:04 - INFO - Serveur en écoute sur le port 60050
+2023-12-01 16:04 - INFO - Connexion établie avec ('127.0.0.1', 50204)
+la date : 2023-12-01 16:04 - Client ID: 9843672832E, Numéro de Caisse: 100000
+2023-12-01 16:04 - ERROR - Fin de la connexion avec le client.
+2023-12-01 16:04 - INFO - Serveur en écoute sur le port 60050
+2023-12-01 16:04 - INFO - Connexion établie avec ('127.0.0.1', 50213)
+la date : 2023-12-01 16:05 - Client ID: , Numéro de Caisse: 100000
+2023-12-01 16:05 - ERROR - Fin de la connexion avec le client.
+2023-12-01 16:05 - INFO - Serveur en écoute sur le port 60050
+2023-12-01 16:47 - INFO - Connexion établie avec ('127.0.0.1', 50324)
+la date : 2023-12-01 16:47 - Client ID: 9843672832E, Numéro de Caisse: 100000
+2023-12-01 16:47 - ERROR - Fin de la connexion avec le client.
+2023-12-01 16:47 - INFO - Serveur en écoute sur le port 60050
+2023-12-01 16:48 - INFO - Connexion établie avec ('127.0.0.1', 50347)
+2023-12-01 16:48 - ERROR - Fin de la connexion avec le client.
+2023-12-01 16:48 - INFO - Serveur en écoute sur le port 60050
+2023-12-01 16:48 - INFO - Connexion établie avec ('127.0.0.1', 50350)
+2023-12-01 16:48 - ERROR - Fin de la connexion avec le client.
+2023-12-01 16:48 - INFO - Serveur en écoute sur le port 60050
+2023-12-01 16:49 - INFO - Connexion établie avec ('127.0.0.1', 50353)
+la date : 2023-12-01 16:49 - Client ID: jhdfsmlhjdlfkjsdlfjdsk, Numéro de Caisse: 100000
+2023-12-01 16:49 - ERROR - Fin de la connexion avec le client.
+2023-12-01 16:49 - INFO - Serveur en écoute sur le port 60050
+2023-12-01 16:50 - INFO - Serveur en écoute sur le port 60050
+2023-12-01 16:50 - INFO - Connexion établie avec ('127.0.0.1', 50363)
+la date : 2023-12-01 16:51 - Client ID: 9843672832E, Numéro de Caisse: 100000
+2023-12-01 16:51 - ERROR - Fin de la connexion avec le client.
+2023-12-01 16:51 - INFO - Serveur en écoute sur le port 60050
+2023-12-01 16:52 - INFO - Connexion établie avec ('127.0.0.1', 50378)
+la date : 2023-12-01 16:52 - Client ID: 9843672832, Numéro de Caisse: 100000
+2023-12-01 16:52 - ERROR - Fin de la connexion avec le client.
+2023-12-01 16:52 - INFO - Serveur en écoute sur le port 60050
+2023-12-01 16:52 - INFO - Connexion établie avec ('127.0.0.1', 50382)
+2023-12-01 16:52 - ERROR - Fin de la connexion avec le client.
+2023-12-01 16:52 - INFO - Serveur en écoute sur le port 60050
+2023-12-01 16:59 - INFO - Serveur en écoute sur le port 60050
+2023-12-01 16:59 - INFO - Connexion établie avec ('127.0.0.1', 50400)
+2023-12-01 16:59 - ERROR - erreur de format détectée , client déconnecté
+2023-12-01 16:59 - ERROR - Fin de la connexion avec le client.
+2023-12-01 16:59 - INFO - Serveur en écoute sur le port 60050
+2023-12-01 16:59 - INFO - Connexion établie avec ('127.0.0.1', 50404)
+2023-12-01 16:59 - ERROR - erreur de format détectée , client déconnecté
+2023-12-01 16:59 - ERROR - Fin de la connexion avec le client.
+2023-12-01 16:59 - INFO - Serveur en écoute sur le port 60050
+2023-12-01 16:59 - INFO - Connexion établie avec ('127.0.0.1', 50405)
+2023-12-01 16:59 - ERROR - erreur de format détectée , client déconnecté
+2023-12-01 16:59 - ERROR - Fin de la connexion avec le client.
+2023-12-01 16:59 - INFO - Serveur en écoute sur le port 60050
+2023-12-01 17:00 - INFO - Connexion établie avec ('127.0.0.1', 50411)
+2023-12-01 17:00 - ERROR - 
+Arrêt du serveur suite à une interruption clavier (Ctrl+C).
+2023-12-01 17:00 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:00 - INFO - Serveur en écoute sur le port 60050
+2023-12-01 17:00 - INFO - Connexion établie avec ('127.0.0.1', 50412)
+2023-12-01 17:00 - ERROR - erreur de format détectée , client déconnecté
+2023-12-01 17:00 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:00 - INFO - Serveur en écoute sur le port 60050
+2023-12-01 17:01 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:01 - INFO - Connexion établie avec ('127.0.0.1', 50415)
+2023-12-01 17:01 - ERROR - erreur de format détectée , client déconnecté
+2023-12-01 17:01 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:01 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:02 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:02 - INFO - Connexion établie avec ('127.0.0.1', 50456)
+la date : 2023-12-01 17:02 - Client ID: , Numéro de Caisse: 100000
+2023-12-01 17:02 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:02 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:04 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:04 - INFO - Connexion établie avec ('127.0.0.1', 50472)
+2023-12-01 17:04 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-12-01 17:04 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:04 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:06 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:06 - INFO - Connexion établie avec ('127.0.0.1', 50479)
+la date : 2023-12-01 17:07 - Client ID: 1245875690P, Numéro de Caisse: 100000
+2023-12-01 17:07 - ERROR - erreur dans la saisie de la commande
+2023-12-01 17:07 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:07 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:08 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:08 - INFO - Connexion établie avec ('127.0.0.1', 50500)
+2023-12-01 17:08 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:09 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:09 - INFO - Connexion établie avec ('127.0.0.1', 50504)
+la date : 2023-12-01 17:09 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-12-01 17:10 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:10 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:10 - INFO - Connexion établie avec ('127.0.0.1', 50518)
+la date : 2023-12-01 17:10 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-12-01 17:10 - ERROR - Une erreur inattendue est survenue: duplicate key value violates unique constraint "encaisser_pkey"
+DETAIL:  Key (date_commande, id_caisse, id_client)=(2023-12-01 17:10:00, 100000, 2456743895E) already exists.
+
+2023-12-01 17:10 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:10 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:10 - INFO - Connexion établie avec ('127.0.0.1', 50527)
+2023-12-01 17:10 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:10 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:11 - INFO - Connexion établie avec ('127.0.0.1', 50529)
+2023-12-01 17:11 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-12-01 17:11 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:11 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:11 - INFO - Connexion établie avec ('127.0.0.1', 50530)
+2023-12-01 17:11 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:11 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:36 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:36 - INFO - Connexion établie avec ('127.0.0.1', 50598)
+2023-12-01 17:36 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-12-01 17:36 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:36 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:37 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:37 - INFO - Connexion établie avec ('127.0.0.1', 50608)
+la date : 2023-12-01 17:37 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-12-01 17:38 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:38 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:38 - INFO - Connexion établie avec ('127.0.0.1', 50623)
+la date : 2023-12-01 17:38 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-12-01 17:38 - ERROR - Une erreur inattendue est survenue: duplicate key value violates unique constraint "encaisser_pkey"
+DETAIL:  Key (date_commande, id_caisse, id_client)=(2023-12-01 17:38:00, 100000, 2456743895E) already exists.
+
+2023-12-01 17:38 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:38 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:38 - INFO - Connexion établie avec ('127.0.0.1', 50632)
+la date : 2023-12-01 17:38 - Client ID: lfsjhlkfjf, Numéro de Caisse: 100000
+2023-12-01 17:38 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:38 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:39 - INFO - Connexion établie avec ('127.0.0.1', 50636)
+2023-12-01 17:39 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:39 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:39 - INFO - Connexion établie avec ('127.0.0.1', 50639)
+2023-12-01 17:39 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-12-01 17:39 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:39 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:39 - INFO - Connexion établie avec ('127.0.0.1', 50641)
+2023-12-01 17:39 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:39 - INFO - Serveur en écoute sur le port 12344
+2023-12-01 17:40 - INFO - Serveur en écoute sur le port 50589
+2023-12-01 17:40 - INFO - Connexion établie avec ('127.0.0.1', 50648)
+2023-12-01 17:40 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:40 - INFO - Serveur en écoute sur le port 50589
+2023-12-01 17:40 - INFO - Connexion établie avec ('127.0.0.1', 50650)
+2023-12-01 17:40 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:40 - INFO - Serveur en écoute sur le port 50589
+2023-12-01 17:41 - INFO - Connexion établie avec ('127.0.0.1', 50658)
+2023-12-01 17:41 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:41 - INFO - Serveur en écoute sur le port 50589
+2023-12-01 17:52 - INFO - Serveur en écoute sur le port 50589
+2023-12-01 17:52 - INFO - Connexion établie avec ('127.0.0.1', 50912)
+la date : 2023-12-01 17:52 - Client ID: lsjkfhgldsj, Numéro de Caisse: 100000
+2023-12-01 17:52 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:52 - INFO - Serveur en écoute sur le port 50589
+2023-12-01 17:52 - INFO - Connexion établie avec ('127.0.0.1', 50917)
+2023-12-01 17:53 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-12-01 17:53 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:53 - INFO - Serveur en écoute sur le port 50589
+2023-12-01 17:53 - INFO - Connexion établie avec ('127.0.0.1', 50920)
+2023-12-01 17:53 - ERROR - Fin de la connexion avec le client.
+2023-12-01 17:53 - INFO - Serveur en écoute sur le port 50589
+2023-12-01 18:07 - INFO - Serveur en écoute sur le port 50589
+2023-12-01 18:08 - INFO - Serveur en écoute sur le port 50000
+2023-12-01 18:08 - INFO - Connexion établie avec ('127.0.0.1', 51001)
+la date : 2023-12-01 18:08 - Client ID: , Numéro de Caisse: 100000
+2023-12-01 18:08 - ERROR - Fin de la connexion avec le client.
+2023-12-01 18:08 - INFO - Serveur en écoute sur le port 50000
+2023-12-01 18:09 - INFO - Serveur en écoute sur le port 50000
+2023-12-01 18:09 - INFO - Connexion établie avec ('127.0.0.1', 51007)
+la date : 2023-12-01 18:09 - Client ID: jhsdgfjfs, Numéro de Caisse: 100000
+2023-12-01 18:09 - ERROR - Fin de la connexion avec le client.
+2023-12-01 18:09 - INFO - Serveur en écoute sur le port 50000
+2023-12-01 18:09 - INFO - Connexion établie avec ('127.0.0.1', 51011)
+2023-12-01 18:09 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-12-01 18:09 - ERROR - Fin de la connexion avec le client.
+2023-12-01 18:09 - INFO - Serveur en écoute sur le port 50000
+2023-12-01 18:10 - INFO - Connexion établie avec ('127.0.0.1', 51015)
+2023-12-01 18:10 - ERROR - Fin de la connexion avec le client.
+2023-12-01 18:10 - INFO - Serveur en écoute sur le port 50000
+2023-12-01 18:14 - INFO - Connexion établie avec ('127.0.0.1', 51026)
+2023-12-01 18:15 - ERROR - Fin de la connexion avec le client.
+2023-12-01 18:15 - INFO - Serveur en écoute sur le port 50000
+2023-12-01 18:15 - INFO - Connexion établie avec ('127.0.0.1', 51028)
+2023-12-01 18:15 - ERROR - Fin de la connexion avec le client.
+2023-12-01 18:15 - INFO - Serveur en écoute sur le port 50000
+2023-12-01 18:15 - INFO - Connexion établie avec ('127.0.0.1', 51033)
+2023-12-01 18:16 - ERROR - Fin de la connexion avec le client.
+2023-12-01 18:16 - INFO - Serveur en écoute sur le port 50000
+2023-12-01 18:19 - INFO - Connexion établie avec ('127.0.0.1', 51043)
+2023-12-01 18:20 - ERROR - Connexion perdue brusquement avec le client.
+2023-12-01 18:20 - ERROR - Fin de la connexion avec le client.
+2023-12-01 18:20 - INFO - Serveur en écoute sur le port 50000
+2023-12-01 18:20 - INFO - Connexion établie avec ('127.0.0.1', 51045)
+2023-12-01 18:20 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-12-01 18:20 - ERROR - Fin de la connexion avec le client.
+2023-12-01 18:20 - INFO - Serveur en écoute sur le port 50000
+2023-12-01 18:21 - INFO - Connexion établie avec ('127.0.0.1', 51050)
+la date : 2023-12-01 18:21 - Client ID: 9843672832E, Numéro de Caisse: 100000
+2023-12-01 18:21 - ERROR - Une opération a été tentée sur autre chose qu’un socket , ce qui ferme le client .
+2023-12-01 18:21 - ERROR - Fin de la connexion avec le client.
+2023-12-01 18:21 - INFO - Serveur en écoute sur le port 50000
+2023-12-01 18:22 - INFO - Connexion établie avec ('127.0.0.1', 51060)
+la date : 2023-12-01 18:22 - Client ID: 9843672832E, Numéro de Caisse: 100000
+2023-12-01 18:22 - ERROR - Fin de la connexion avec le client.
+2023-12-01 18:22 - INFO - Serveur en écoute sur le port 50000
+2023-12-01 18:23 - INFO - Connexion établie avec ('127.0.0.1', 51076)
+la date : 2023-12-01 18:23 - Client ID: 9843672832E, Numéro de Caisse: 100000
+2023-12-01 18:23 - ERROR - Fin de la connexion avec le client.
+2023-12-01 18:23 - INFO - Serveur en écoute sur le port 50000
+2023-12-03 21:00 - INFO - Serveur en écoute sur le port 12344
+2023-12-03 21:00 - INFO - Connexion établie avec ('127.0.0.1', 58381)
+2023-12-03 21:00 - ERROR - Fin de la connexion avec le client.
+2023-12-03 21:00 - INFO - Serveur en écoute sur le port 12344
+2023-12-03 21:00 - INFO - Connexion établie avec ('127.0.0.1', 58388)
+2023-12-03 21:00 - ERROR - erreur de format détectée , client déconnecté
+2023-12-03 21:00 - ERROR - Fin de la connexion avec le client.
+2023-12-03 21:00 - INFO - Serveur en écoute sur le port 12344
+2023-12-03 21:00 - INFO - Connexion établie avec ('127.0.0.1', 58390)
+2023-12-03 21:00 - ERROR - Fin de la connexion avec le client.
+2023-12-03 21:00 - INFO - Serveur en écoute sur le port 12344
+2023-12-03 21:01 - INFO - Connexion établie avec ('127.0.0.1', 58392)
+2023-12-03 21:01 - ERROR - Fin de la connexion avec le client.
+2023-12-03 21:01 - INFO - Serveur en écoute sur le port 12344
+2023-12-03 21:01 - INFO - Connexion établie avec ('127.0.0.1', 58394)
+2023-12-03 21:01 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-12-03 21:01 - ERROR - Fin de la connexion avec le client.
+2023-12-03 21:01 - INFO - Serveur en écoute sur le port 12344
+2023-12-03 21:03 - INFO - Connexion établie avec ('127.0.0.1', 58408)
+2023-12-03 21:03 - ERROR - Fin de la connexion avec le client.
+2023-12-03 21:03 - INFO - Serveur en écoute sur le port 12344
+2023-12-03 21:04 - INFO - Connexion établie avec ('127.0.0.1', 58414)
+2023-12-03 21:04 - ERROR - Connexion perdue brusquement avec le client.
+2023-12-03 21:04 - ERROR - Fin de la connexion avec le client.
+2023-12-03 21:04 - INFO - Serveur en écoute sur le port 12344
+2023-12-03 21:05 - INFO - Connexion établie avec ('127.0.0.1', 58429)
+2023-12-03 21:05 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-12-03 21:05 - ERROR - Fin de la connexion avec le client.
+2023-12-03 21:05 - INFO - Serveur en écoute sur le port 12344
+2023-12-03 21:06 - INFO - Connexion établie avec ('127.0.0.1', 58439)
+2023-12-03 21:06 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-12-03 21:06 - ERROR - Fin de la connexion avec le client.
+2023-12-03 21:06 - INFO - Serveur en écoute sur le port 12344
+2023-12-03 21:08 - INFO - Connexion établie avec ('127.0.0.1', 58450)
+2023-12-03 21:08 - ERROR - erreur de format détectée , client déconnecté
+2023-12-03 21:08 - ERROR - Fin de la connexion avec le client.
+2023-12-03 21:08 - INFO - Serveur en écoute sur le port 12344
+2023-12-03 21:09 - INFO - Serveur en écoute sur le port 12354
+2023-12-03 21:09 - INFO - Connexion établie avec ('192.168.56.1', 58456)
+2023-12-03 21:09 - ERROR - Fin de la connexion avec le client.
+2023-12-03 21:09 - INFO - Serveur en écoute sur le port 12354
+2023-12-03 21:10 - INFO - Connexion établie avec ('192.168.56.1', 58460)
+2023-12-03 21:10 - ERROR - Fin de la connexion avec le client.
+2023-12-03 21:10 - INFO - Serveur en écoute sur le port 12354
+2023-12-03 21:11 - INFO - Connexion établie avec ('192.168.56.1', 58462)
+la date : 2023-12-03 21:11 - Client ID: , Numéro de Caisse: 100000
+2023-12-03 21:11 - ERROR - Fin de la connexion avec le client.
+2023-12-03 21:11 - INFO - Serveur en écoute sur le port 12354
+2023-12-03 21:11 - INFO - Connexion établie avec ('192.168.56.1', 58465)
+2023-12-03 21:11 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-12-03 21:11 - ERROR - Fin de la connexion avec le client.
+2023-12-03 21:11 - INFO - Serveur en écoute sur le port 12354
+2023-12-03 21:11 - INFO - Connexion établie avec ('192.168.56.1', 58472)
+2023-12-03 21:11 - ERROR - erreur de format détectée , client déconnecté
+2023-12-03 21:11 - ERROR - Fin de la connexion avec le client.
+2023-12-03 21:11 - INFO - Serveur en écoute sur le port 12354
+2023-12-03 21:12 - INFO - Connexion établie avec ('192.168.56.1', 58478)
+la date : 2023-12-03 21:13 - Client ID: , Numéro de Caisse: 123096
+2023-12-03 21:13 - ERROR - Fin de la connexion avec le client.
+2023-12-03 21:13 - INFO - Serveur en écoute sur le port 12354
+2023-12-03 21:13 - INFO - Connexion établie avec ('192.168.56.1', 58483)
+2023-12-03 21:13 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-12-03 21:13 - ERROR - Fin de la connexion avec le client.
+2023-12-03 21:13 - INFO - Serveur en écoute sur le port 12354
+2023-12-04 02:28 - INFO - Connexion établie avec ('192.168.56.1', 20764)
+la date : 2023-12-04 02:29 - Client ID: 1234567890E, Numéro de Caisse: 123096
+2023-12-04 02:29 - ERROR - Fin de la connexion avec le client.
+2023-12-04 02:29 - INFO - Serveur en écoute sur le port 12354
+2023-12-04 02:31 - INFO - Connexion établie avec ('127.0.0.1', 20790)
+la date : 2023-12-04 02:31 - Client ID: C:\Program Files 1234567890E, Numéro de Caisse: 100000
+2023-12-04 02:31 - ERROR - Fin de la connexion avec le client.
+2023-12-04 02:31 - INFO - Serveur en écoute sur le port 12354
+2023-12-04 02:32 - INFO - Connexion établie avec ('127.0.0.1', 20794)
+la date : 2023-12-04 02:32 - Client ID: 1234567890E, Numéro de Caisse: 123096
+2023-12-04 02:32 - ERROR - Fin de la connexion avec le client.
+2023-12-04 02:32 - INFO - Serveur en écoute sur le port 12354
+2023-12-04 02:36 - INFO - Serveur en écoute sur le port 12354
+2023-12-04 02:37 - INFO - Serveur en écoute sur le port 12344
+2023-12-04 02:39 - INFO - Serveur en écoute sur le port 12354
+2023-12-04 02:49 - INFO - Serveur en écoute sur le port 12354
+2023-12-04 02:49 - INFO - Connexion établie avec ('192.168.56.1', 20960)
+la date : 2023-12-04 02:50 - Client ID: 9843672832E, Numéro de Caisse: 100000
+2023-12-04 02:50 - ERROR - Fin de la connexion avec le client.
+2023-12-04 02:50 - INFO - Serveur en écoute sur le port 12354
+2023-12-04 02:50 - INFO - Connexion établie avec ('192.168.56.1', 20981)
+2023-12-04 02:50 - ERROR - Fin de la connexion avec le client.
+2023-12-04 02:50 - INFO - Serveur en écoute sur le port 12354
+2023-12-04 02:50 - ERROR - Le port est déjà utilisé. Veuillez en choisir un autre.
+2023-12-04 02:50 - INFO - Tentative de démarrage sur le port par défaut : 12344
+2023-12-04 02:50 - INFO - Serveur en écoute sur le port 12344
+2023-12-04 02:52 - INFO - Serveur en écoute sur le port 12354
+2023-12-04 02:52 - ERROR - Le port est déjà utilisé. Veuillez en choisir un autre.
+2023-12-04 02:52 - INFO - Tentative de démarrage sur le port par défaut : 12344
+2023-12-04 02:52 - INFO - Serveur en écoute sur le port 12344
+2023-12-04 02:53 - INFO - Connexion établie avec ('127.0.0.1', 21018)
+2023-12-04 02:53 - ERROR - Fin de la connexion avec le client.
+2023-12-04 02:53 - INFO - Serveur en écoute sur le port 12354
+2023-12-04 02:53 - INFO - Serveur en écoute sur le port 12344
+2023-12-04 02:53 - ERROR - Le port est déjà utilisé. Veuillez en choisir un autre.
+2023-12-04 02:53 - INFO - Tentative de démarrage sur le port par défaut : 12344
+2023-12-04 02:53 - ERROR - Le port est déjà utilisé. Veuillez en choisir un autre.
+2023-12-04 02:53 - INFO - Connexion établie avec ('127.0.0.1', 21023)
+la date : 2023-12-04 02:54 - Client ID: , Numéro de Caisse: 100000
+2023-12-04 02:54 - ERROR - Fin de la connexion avec le client.
+2023-12-04 02:54 - INFO - Serveur en écoute sur le port 12344
+2023-12-04 02:54 - INFO - Connexion établie avec ('127.0.0.1', 21028)
+2023-12-04 02:54 - ERROR - Fin de la connexion avec le client.
+2023-12-04 02:54 - INFO - Serveur en écoute sur le port 12344
+2023-12-04 02:54 - INFO - Connexion établie avec ('127.0.0.1', 21057)
+2023-12-04 02:54 - ERROR - Une erreur inattendue est survenue: 'utf-8' codec can't decode byte 0x97 in position 5: invalid start byte
+2023-12-04 02:54 - ERROR - Fin de la connexion avec le client.
+2023-12-04 02:54 - INFO - Serveur en écoute sur le port 12344
+2023-12-04 02:55 - INFO - Connexion établie avec ('127.0.0.1', 21060)
+2023-12-04 02:55 - ERROR - Fin de la connexion avec le client.
+2023-12-04 02:55 - INFO - Serveur en écoute sur le port 12344
+2023-12-04 03:06 - INFO - Serveur en écoute sur le port 12344
+2023-12-04 03:06 - INFO - Connexion établie avec ('127.0.0.1', 21145)
+2023-12-04 03:06 - ERROR - erreur de format détectée , client déconnecté
+2023-12-04 03:06 - ERROR - Fin de la connexion avec le client.
+2023-12-04 03:06 - INFO - Serveur en écoute sur le port 12344
+2023-12-04 03:07 - INFO - Connexion établie avec ('127.0.0.1', 21148)
+la date : 2023-12-04 03:07 - Client ID: 9843672832E, Numéro de Caisse: 100000
+2023-12-04 03:07 - ERROR - Fin de la connexion avec le client.
+2023-12-04 03:07 - INFO - Serveur en écoute sur le port 12344
+2023-12-04 03:07 - ERROR - Le port est déjà utilisé. Veuillez en choisir un autre.
+2023-12-04 03:07 - INFO - Tentative de démarrage sur le port par défaut : 12344
+2023-12-04 03:07 - ERROR - Le port est déjà utilisé. Veuillez en choisir un autre.
+2023-12-04 03:11 - INFO - Connexion établie avec ('127.0.0.1', 21190)
+2023-12-04 03:11 - ERROR - Fin de la connexion avec le client.
+2023-12-04 03:11 - INFO - Serveur en écoute sur le port 12344
+2023-12-04 03:13 - INFO - Serveur en écoute sur le port 12358
+2023-12-04 03:16 - INFO - Serveur en écoute sur le port 12344
+2023-12-04 03:16 - INFO - Connexion établie avec ('127.0.0.1', 21233)
+la date : 2023-12-04 03:16 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-12-04 03:17 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-12-04 03:17 - ERROR - Fin de la connexion avec le client.
+2023-12-04 03:17 - INFO - Serveur en écoute sur le port 12344
+2023-12-04 03:20 - INFO - Serveur en écoute sur le port 12354
+2023-12-04 03:20 - INFO - Connexion établie avec ('127.0.0.1', 21264)
+la date : 2023-12-04 03:21 - Client ID: , Numéro de Caisse: 100000
+2023-12-04 03:21 - ERROR - Fin de la connexion avec le client.
+2023-12-04 03:21 - INFO - Serveur en écoute sur le port 12354
+2023-12-04 03:21 - INFO - Connexion établie avec ('127.0.0.1', 21267)
+la date : 2023-12-04 03:21 - Client ID: , Numéro de Caisse: 100000
+2023-12-04 03:21 - ERROR - Fin de la connexion avec le client.
+2023-12-04 03:21 - INFO - Serveur en écoute sur le port 12354
+2023-12-04 03:21 - INFO - Connexion établie avec ('127.0.0.1', 21271)
+la date : 2023-12-04 03:21 - Client ID: , Numéro de Caisse: 100000
+2023-12-04 03:21 - ERROR - Fin de la connexion avec le client.
+2023-12-04 03:21 - INFO - Serveur en écoute sur le port 12354
+2023-12-04 03:21 - INFO - Connexion établie avec ('127.0.0.1', 21274)
+la date : 2023-12-04 03:21 - Client ID: 2456743895E, Numéro de Caisse: 100000
+2023-12-04 03:22 - ERROR - Une opération a été tentée sur autre chose qu’un socket , ce qui ferme le client .
+2023-12-04 03:22 - ERROR - Fin de la connexion avec le client.
+2023-12-04 03:22 - INFO - Serveur en écoute sur le port 12354
+2023-12-04 03:30 - INFO - Serveur en écoute sur le port 12344
+2023-12-04 03:30 - INFO - Connexion établie avec ('127.0.0.1', 21342)
+2023-12-04 03:30 - ERROR - Fin de la connexion avec le client.
+2023-12-04 03:30 - INFO - Serveur en écoute sur le port 12344
+2023-12-04 03:32 - INFO - Connexion établie avec ('127.0.0.1', 21348)
+la date : 2023-12-04 03:32 - Client ID: ksdjfnlkjlfjldjsmkfj;l;ml;ds;fmds;mf;sdfsd;f;ds;fd;s, Numéro de Caisse: 100000
+2023-12-04 03:32 - ERROR - Fin de la connexion avec le client.
+2023-12-04 03:32 - INFO - Serveur en écoute sur le port 12344
+2023-12-04 08:49 - INFO - Connexion établie avec ('127.0.0.1', 35055)
+2023-12-04 08:50 - ERROR - Fin de la connexion avec le client.
+2023-12-04 08:50 - INFO - Serveur en écoute sur le port 12344
+2023-12-04 08:55 - INFO - Serveur en écoute sur le port 12344
+2023-12-04 09:05 - INFO - Serveur en écoute sur le port 12354
+2023-12-04 09:05 - INFO - Connexion établie avec ('127.0.0.1', 35117)
+la date : 2023-12-04 09:05 - Client ID: 9843672832E, Numéro de Caisse: 100000
+2023-12-04 09:06 - ERROR - Fin de la connexion avec le client.
+2023-12-04 09:06 - INFO - Serveur en écoute sur le port 12354
+2023-12-04 09:22 - INFO - Serveur en écoute sur le port 12365
+2023-12-04 09:22 - INFO - Connexion établie avec ('127.0.0.1', 35205)
+2023-12-04 09:22 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-12-04 09:22 - ERROR - Fin de la connexion avec le client.
+2023-12-04 09:22 - INFO - Serveur en écoute sur le port 12365
+2023-12-04 09:23 - INFO - Connexion établie avec ('127.0.0.1', 35209)
+2023-12-04 09:23 - ERROR - Connexion perdue brusquement avec le client.
+2023-12-04 09:23 - ERROR - Fin de la connexion avec le client.
+2023-12-04 09:23 - INFO - Serveur en écoute sur le port 12365
+2023-12-04 09:26 - INFO - Connexion établie avec ('127.0.0.1', 35243)
+2023-12-04 09:26 - ERROR - Le client a mis trop de temps pour répondre. Déconnexion.
+2023-12-04 09:26 - ERROR - Fin de la connexion avec le client.
+2023-12-04 09:26 - INFO - Serveur en écoute sur le port 12365
+2023-12-04 09:26 - INFO - Connexion établie avec ('127.0.0.1', 35247)
+2023-12-04 09:26 - ERROR - Fin de la connexion avec le client.
+2023-12-04 09:26 - INFO - Serveur en écoute sur le port 12365

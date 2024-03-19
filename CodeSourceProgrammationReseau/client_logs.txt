@@ -1,0 +1,2145 @@
+nov. 27, 2023 12:52:38 AM Client main
+INFO: Entrez le numéro de la caisse : 
+nov. 27, 2023 12:54:25 AM Client main
+SEVERE: Erreur de connexion : Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+java.net.SocketException: Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:315)
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:340)
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:789)
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:1025)
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:333)
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:376)
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:219)
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:173)
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:189)
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:371)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:348)
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:437)
+	at Client.main(Client.java:54)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.execute(Main.java:434)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.run(Main.java:205)
+	at jdk.compiler/com.sun.tools.javac.launcher.Main.main(Main.java:132)
+
+nov. 27, 2023 12:54:25 AM Client main
+INFO: Erreur de connexion : Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte Cliquez sur une touche pour continuer.
+nov. 27, 2023 12:55:03 AM Client main
+INFO: Entrez le numéro de la caisse : 
+nov. 27, 2023 12:55:06 AM Client main
+INFO: Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+nov. 27, 2023 12:55:06 AM Client main
+INFO: Entrez votre ID client : 
+nov. 27, 2023 1:10:48 AM Client main
+SEVERE: Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+nov. 27, 2023 1:10:48 AM Client main
+INFO: Vous avez été déconnecté. Cliquez sur une touche pour continuer.
+nov. 27, 2023 1:11:32 AM Client main
+SEVERE: Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+nov. 27, 2023 1:11:32 AM Client main
+INFO: Vous avez été déconnecté. Cliquez sur une touche pour continuer.
+nov. 27, 2023 1:11:48 AM Client main
+SEVERE: Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+nov. 27, 2023 1:11:48 AM Client main
+INFO: Vous avez été déconnecté. Cliquez sur une touche pour continuer.
+nov. 27, 2023 1:12:01 AM Client main
+SEVERE: Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+nov. 27, 2023 1:12:01 AM Client main
+INFO: Vous avez été déconnecté. Cliquez sur une touche pour continuer.
+nov. 27, 2023 1:12:10 AM Client main
+INFO: Entrez le numéro de la caisse : 
+nov. 27, 2023 1:12:15 AM Client main
+SEVERE: Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+nov. 27, 2023 1:12:15 AM Client main
+INFO: Vous avez été déconnecté. Cliquez sur une touche pour continuer.
+nov. 27, 2023 1:12:23 AM Client main
+INFO: Entrez le numéro de la caisse : 
+Entrez le numéro de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Entrez le numéro de la caisse : 
+Entrez le numéro de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 537.50 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 5.50 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+
+Paiement réussi. Nouveau solde: 534.30£
+
+Ticket de Commande :
+Nom : Harry
+Prénom : Cover
+ID Commande : 423c8f8d-27
+Date : 2023-11-27 01:51
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 3.20 £
+Vous avez été déconnecté. Cliquez sur une touche pour continuer.
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 534.30 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 5.50 £
+---- Fin de la liste des menus ----
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Erreur de format du numéro de caisse ou de numéro de caisse. Déconnexion...
+Entrez votre ID client : 
+Réponse du serveur :
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté. Cliquez sur une touche pour continuer.
+Entrez l'id de la caisse : 
+Entrez le numéro de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Entrez le numéro de la caisse : 
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client non valide
+Vous avez été déconnecté. Cliquez sur une touche pour continuer.
+Erreur: Le numéro de port doit être un nombre entier.
+Erreur: Le numéro de port doit être un nombre entier.
+Erreur: Le numéro de port doit être un nombre entier.
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté. Cliquez sur une touche pour continuer.
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté. Cliquez sur une touche pour continuer.
+Erreur: Le numéro de port doit être un nombre entier.
+Erreur: Le numéro de port doit être un nombre entier.
+Erreur: Le numéro de port doit être un nombre entier.
+Erreur: Le numéro de port doit être un nombre entier.
+Erreur: Le numéro de port doit être un nombre entier.
+Erreur: Le numéro de port doit être un nombre entier.
+Entrez l'id de la caisse : 
+Erreur: Le numéro de port doit être un nombre entier.
+Erreur: Le numéro de port doit être un nombre entier.
+Erreur: Le numéro de port doit être un nombre entier.
+Erreur: Le numéro de port doit être un nombre entier.
+Erreur: Le numéro de port doit être un nombre entier.
+Erreur: Le numéro de port doit être un nombre entier.
+Entrez l'id de la caisse : 
+Erreur de format du numéro de caisse ou de numéro de caisse. Déconnexion...
+Entrez votre ID client : 
+Réponse du serveur :
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté. Cliquez sur une touche pour continuer.
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Erreur de format du numéro de caisse ou de numéro de caisse. Déconnexion...
+Entrez votre ID client : 
+Réponse du serveur :
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté. Cliquez sur une touche pour continuer.
+Entrez l'id de la caisse : 
+Erreur de format du numéro de caisse ou de numéro de caisse. Déconnexion...
+Entrez votre ID client : 
+Réponse du serveur :
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté. Cliquez sur une touche pour continuer.
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 534.30 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 5.50 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+
+Paiement réussi. Nouveau solde: 531.10£
+
+Ticket de Commande :
+Nom : Harry
+Prénom : Cover
+ID Commande : 91a1ae0f-f0
+Date : 2023-11-27 08:09
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 3.20 £
+Vous avez été déconnecté. Cliquez sur une touche pour continuer.
+Entrez l'id de la caisse : 
+Erreur de format du numéro de caisse ou de numéro de caisse. Déconnexion...
+Entrez votre ID client : 
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté. Cliquez sur une touche pour continuer.
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté. Cliquez sur une touche pour continuer.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 531.10 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+
+Paiement réussi. Nouveau solde: 530.10£
+
+Ticket de Commande :
+Nom : Harry
+Prénom : Cover
+ID Commande : 01b28882-02
+Date : 2023-11-27 17:47
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 1.00 £
+Vous avez été déconnecté. Cliquez sur une touche pour continuer.
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 530.10 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Menu sélectionné non valide. Veuillez réessayer.
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 530.10 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Menu sélectionné non valide. Veuillez réessayer.
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 530.10 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Entrez l'id de la caisse : 
+Erreur de format du numéro de caisse ou de numéro de caisse. Déconnexion...
+Entrez votre ID client : 
+Réponse du serveur :
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté. Cliquez sur une touche pour continuer.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 530.10 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Menu sélectionné non valide. Veuillez réessayer.
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 530.10 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Veuillez sélectionner un supplément par son ID : exemple pour Coca-Cola rentrer PROD000001
+Liste des suppléments :
+Coca-Cola:PROD000001: 1.50 £
+Iced-Tea:PROD000002: 1.50 £
+Salade:PROD000003: 1.00 £
+Yaourt:PROD000004: 0.50 £
+---- Fin de la liste des suppléments ----
+
+Paiement réussi. Nouveau solde: 528.60£
+
+Ticket de Commande :
+Nom : Harry
+Prénom : Cover
+ID Commande : e2267e18-7b
+Date : 2023-11-27 17:56
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 1.50 £
+Vous avez été déconnecté. Cliquez sur une touche pour continuer.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Nani,Zack
+votre solde actuel est de: 0.00 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Veuillez sélectionner un supplément par son ID : exemple pour Coca-Cola rentrer PROD000001
+Liste des suppléments :
+Coca-Cola:PROD000001: 1.50 £
+Iced-Tea:PROD000002: 1.50 £
+Salade:PROD000003: 1.00 £
+Yaourt:PROD000004: 0.50 £
+---- Fin de la liste des suppléments ----
+Supplément non valide, paiement refusé.
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 391.00 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Veuillez sélectionner un supplément par son ID : exemple pour Coca-Cola rentrer PROD000001
+Liste des suppléments :
+Coca-Cola:PROD000001: 1.50 £
+Iced-Tea:PROD000002: 1.50 £
+Salade:PROD000003: 1.00 £
+Yaourt:PROD000004: 0.50 £
+---- Fin de la liste des suppléments ----
+
+Paiement réussi. Nouveau solde: 386.20£
+
+Ticket de Commande :
+Nom : John
+Prénom : Doe
+ID Commande : 2cde61c5-fe
+Date : 2023-11-27 18:16
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 4.80 £
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+id de caisse valide continuer ...
+Entrez votre ID client : 
+Réponse du serveur :
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Entrez l'id de la caisse : 
+id de caisse valide , continuons ....
+Entrez votre ID client : 
+Réponse du serveur :
+oh
+Entrez l'id de la caisse : 
+id de caisse correct , continuons ....
+Entrez votre ID client : 
+Réponse du serveur :
+id de client correct 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+id de caisse valide
+Entrez votre ID client : 
+Réponse du serveur :
+"---- Fin de la liste des menus ----\n"
+Entrez l'id de la caisse : 
+id de caisse correct , continuons ....
+Entrez votre ID client : 
+Réponse du serveur :
+cls
+csls
+
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+id de caisse correct , continuez ....
+Entrez votre ID client : 
+Réponse du serveur :
+id de client incorrect , fin de l'�change r�seau 
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Entrez l'id de la caisse : 
+id de caisse correct , continuons 
+Entrez votre ID client : 
+Réponse du serveur :
+id client correct voici la liste de menus 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+ok
+Entrez votre ID client : 
+Réponse du serveur :
+Menu Izly : viande ---- Fin de la liste des menus ----
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+id de caisse valide , continuons 
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 370.00 £
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+menu valide veuillez S�lectionner un suppl�ment 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+id de caisse valide , continuons ...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 370.00 £
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+
+Avez-vous pris un suppl�ment ?Avez-vous pris un suppl�ment ?
+Entrez l'id de la caisse : 
+id de caisse valide , continuons....
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 370.00 £
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+
+Entrez votre ID client : 
+Réponse du serveur :
+
+id caisse correct continuons
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+id caisse correct , continuons
+Entrez votre ID client : 
+Réponse du serveur :
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+id de caisse correct continuons 
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 370.00 £
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+
+Entrez votre ID client : 
+Réponse du serveur :
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplement ?
+commande pass�e , montant : 3.30
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+nid de caisse correct continuons
+Entrez votre ID client : 
+Réponse du serveur :
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+
+Avez-vous pris un supplement ?
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Entrez l'id de la caisse : 
+id de caisse correct , continuons ....
+Entrez votre ID client : 
+Réponse du serveur :
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+
+Avez-vous pris un supplement ?
+commande pass�e , montant de la commande : 3.30 , � bientot !!
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 370.00 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client non valide (trop long ou contient des caractères spéciaux). Veuillez réessayer.
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client non valide (trop long ou contient des caractères spéciaux). Veuillez réessayer.
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Erreur de format du numéro de caisse ou de numéro de caisse. Déconnexion...
+Entrez votre ID client : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client non valide (trop long ou contient des caractères spéciaux). Veuillez réessayer.
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 370.00 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 370.00 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 370.00 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 370.00 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+
+Paiement réussi. Nouveau solde: 366.70£
+
+Ticket de Commande :
+Nom : John
+Prénom : Doe
+ID Commande : 40cfb3e4-b5
+Date : 2023-11-27 20:46
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 3.30 £
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Dudicourt,Laurent
+votre solde actuel est de: 0.00 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Dudicourt,Laurent
+votre solde actuel est de: 0.00 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Menu sélectionné non valide. Veuillez réessayer.
+ID client valide , Bienvenue : Dudicourt,Laurent
+votre solde actuel est de: 0.00 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Menu sélectionné non valide. Veuillez réessayer.
+ID client valide , Bienvenue : Dudicourt,Laurent
+votre solde actuel est de: 0.00 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Veuillez sélectionner un supplément par son ID : exemple pour Coca-Cola rentrer PROD000001
+Liste des suppléments :
+Coca-Cola:PROD000001: 1.50 £
+Iced-Tea:PROD000002: 1.50 £
+Salade:PROD000003: 1.00 £
+Yaourt:PROD000004: 0.50 £
+---- Fin de la liste des suppléments ----
+Supplément non valide, paiement refusé.
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Dudicourt,Laurent
+votre solde actuel est de: 0.00 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Menu sélectionné non valide. Veuillez réessayer.
+ID client valide , Bienvenue : Dudicourt,Laurent
+votre solde actuel est de: 0.00 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client non valide
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Dudicourt,Laurent
+votre solde actuel est de: 0.00 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Solde insuffisant. Paiement refusé.
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 366.70 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+
+Paiement réussi. Nouveau solde: 363.40£
+
+Ticket de Commande :
+Nom : John
+Prénom : Doe
+ID Commande : bb7a7dce-27
+Date : 2023-11-27 20:58
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 3.30 £
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 999.00 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Veuillez sélectionner un supplément par son ID : exemple pour Coca-Cola rentrer PROD000001
+Liste des suppléments :
+Coca-Cola:PROD000001: 1.50 £
+Iced-Tea:PROD000002: 1.50 £
+Salade:PROD000003: 1.00 £
+Yaourt:PROD000004: 0.50 £
+---- Fin de la liste des suppléments ----
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 999.00 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Veuillez sélectionner un supplément par son ID : exemple pour Coca-Cola rentrer PROD000001
+Liste des suppléments :
+PROD000001:Coca-Cola: 1.50 £
+PROD000002:Iced-Tea: 1.50 £
+PROD000003:Salade: 1.00 £
+PROD000004:Yaourt: 0.50 £
+---- Fin de la liste des suppléments ----
+
+Paiement réussi. Nouveau solde: 994.20£
+
+Ticket de Commande :
+Nom : John
+Prénom : Doe
+ID Commande : 3eef541c-e0
+Date : 2023-11-27 21:17
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 4.80 £
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 528.60 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Veuillez sélectionner un supplément par son ID : exemple pour Coca-Cola rentrer PROD000001
+Liste des suppléments :
+PROD000001:Coca-Cola: 1.50 £
+PROD000002:Iced-Tea: 1.50 £
+PROD000003:Salade: 1.00 £
+PROD000004:Yaourt: 0.50 £
+---- Fin de la liste des suppléments ----
+
+Paiement réussi. Nouveau solde: 526.60£
+
+Ticket de Commande :
+Nom : Harry
+Prénom : Cover
+ID Commande : d69813de-fc
+Date : 2023-11-27 21:19
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 2.00 £
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Dudicourt,Laurent
+votre solde actuel est de: 0.00 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Veuillez sélectionner un supplément par son ID : exemple pour Coca-Cola rentrer PROD000001
+Liste des suppléments :
+PROD000001:Coca-Cola: 1.50 £
+PROD000002:Iced-Tea: 1.50 £
+PROD000003:Salade: 1.00 £
+PROD000004:Yaourt: 0.50 £
+---- Fin de la liste des suppléments ----
+Solde insuffisant. Paiement refusé.
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client non valide
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 998.20 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+
+Paiement réussi. Nouveau solde: 994.90£
+
+Ticket de Commande :
+Nom : John
+Prénom : Doe
+ID Commande : 6d0b28f7-bc
+Date : 2023-11-27 21:36
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 3.30 £
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Erreur de format du numéro de caisse ou de numéro de caisse. Déconnexion...
+Entrez votre ID client : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 994.90 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Menu sélectionné non valide. Veuillez réessayer.
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 994.90 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Menu sélectionné non valide. Veuillez réessayer.
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 994.90 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Veuillez sélectionner un supplément par son ID : exemple pour Coca-Cola rentrer PROD000001
+Liste des suppléments :
+PROD000001:Coca-Cola: 1.50 £
+PROD000002:Iced-Tea: 1.50 £
+PROD000003:Salade: 1.00 £
+PROD000004:Yaourt: 0.50 £
+---- Fin de la liste des suppléments ----
+
+Paiement réussi. Nouveau solde: 990.10£
+
+Ticket de Commande :
+Nom : John
+Prénom : Doe
+ID Commande : fde9c097-14
+Date : 2023-11-27 22:43
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 4.80 £
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 997.10 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Veuillez sélectionner un supplément par son ID : exemple pour Coca-Cola rentrer PROD000001
+Liste des suppléments :
+PROD000001:Coca-Cola: 1.50 £
+PROD000002:Iced-Tea: 1.50 £
+PROD000003:Salade: 1.00 £
+PROD000004:Yaourt: 0.50 £
+---- Fin de la liste des suppléments ----
+
+Paiement réussi. Nouveau solde: 992.30£
+
+Ticket de Commande :
+Nom : John
+Prénom : Doe
+ID Commande : 90a00203-49
+Date : 2023-11-27 23:03
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 4.80 £
+Vous avez été déconnecté.
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 992.30 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Veuillez sélectionner un supplément par son ID : exemple pour Coca-Cola rentrer PROD000001
+Liste des suppléments :
+PROD000001:Coca-Cola: 1.50 £
+PROD000002:Iced-Tea: 1.50 £
+PROD000003:Salade: 1.00 £
+PROD000004:Yaourt: 0.50 £
+---- Fin de la liste des suppléments ----
+Supplément non valide, paiement refusé.
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 526.60 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+
+Paiement réussi. Nouveau solde: 525.60£
+
+Ticket de Commande :
+Nom : Harry
+Prénom : Cover
+ID Commande : 15c047d5-a6
+Date : 2023-12-01 15:39
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 1.00 £
+Vous avez été déconnecté.
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 525.60 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Veuillez sélectionner un supplément par son ID : exemple pour Coca-Cola rentrer PROD000001
+Liste des suppléments :
+PROD000001:Coca-Cola: 1.50 £
+PROD000002:Iced-Tea: 1.50 £
+PROD000003:Salade: 1.00 £
+PROD000004:Yaourt: 0.50 £
+---- Fin de la liste des suppléments ----
+
+Paiement réussi. Nouveau solde: 523.10£
+
+Ticket de Commande :
+Nom : Harry
+Prénom : Cover
+ID Commande : d11ad121-d0
+Date : 2023-12-01 15:40
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 2.50 £
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 523.10 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 523.10 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Veuillez sélectionner un supplément par son ID : exemple pour Coca-Cola rentrer PROD000001
+Liste des suppléments :
+PROD000001:Coca-Cola: 1.50 £
+PROD000002:Iced-Tea: 1.50 £
+PROD000003:Salade: 1.00 £
+PROD000004:Yaourt: 0.50 £
+---- Fin de la liste des suppléments ----
+
+Paiement réussi. Nouveau solde: 520.60£
+
+Ticket de Commande :
+Nom : Harry
+Prénom : Cover
+ID Commande : 557ff41d-36
+Date : 2023-12-01 16:04
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 2.50 £
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 520.60 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Menu sélectionné non valide. Veuillez réessayer.
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 520.60 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Menu sélectionné non valide. Veuillez réessayer.
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 520.60 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Menu sélectionné non valide. Veuillez réessayer.
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 520.60 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Veuillez sélectionner un supplément par son ID : exemple pour Coca-Cola rentrer PROD000001
+Liste des suppléments :
+PROD000001:Coca-Cola: 1.50 £
+PROD000002:Iced-Tea: 1.50 £
+PROD000003:Salade: 1.00 £
+PROD000004:Yaourt: 0.50 £
+---- Fin de la liste des suppléments ----
+
+Paiement réussi. Nouveau solde: 518.10£
+
+Ticket de Commande :
+Nom : Harry
+Prénom : Cover
+ID Commande : 75e7866d-98
+Date : 2023-12-01 16:47
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 2.50 £
+Vous avez été déconnecté.
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 518.10 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Veuillez sélectionner un supplément par son ID : exemple pour Coca-Cola rentrer PROD000001
+Liste des suppléments :
+PROD000001:Coca-Cola: 1.50 £
+PROD000002:Iced-Tea: 1.50 £
+PROD000003:Salade: 1.00 £
+PROD000004:Yaourt: 0.50 £
+---- Fin de la liste des suppléments ----
+
+Paiement réussi. Nouveau solde: 515.60£
+
+Ticket de Commande :
+Nom : Harry
+Prénom : Cover
+ID Commande : 78ed1556-05
+Date : 2023-12-01 16:51
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 2.50 £
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client non valide
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+ID de la caisse invalide (trop long ou contient des caractères spéciaux) vérif coté client .
+Vous avez été déconnecté.
+Erreur de connexion
+Vous avez été déconnecté.
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+ID de la caisse invalide (trop long ou contient des caractères spéciaux) vérif coté client .
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Erreur de format du numéro de caisse ou de numéro de caisse. Déconnexion...
+Entrez votre ID client : 
+Entrez l'id de la caisse : 
+Erreur de format du numéro de caisse ou de numéro de caisse. Déconnexion...
+Entrez votre ID client : 
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Erreur de format du numéro de caisse ou de numéro de caisse. Déconnexion...
+Entrez votre ID client : 
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Erreur de format du numéro de caisse ou de numéro de caisse. Déconnexion...
+Entrez votre ID client : 
+Réponse du serveur :
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Entrez l'id de la caisse : 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Dudicourt,Laurent
+votre solde actuel est de: 0.00 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Solde insuffisant. Paiement refusé.
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 989.00 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Veuillez sélectionner un supplément par son ID : exemple pour Coca-Cola rentrer PROD000001
+Liste des suppléments :
+PROD000001:Coca-Cola: 1.50 £
+PROD000002:Iced-Tea: 1.50 £
+PROD000003:Salade: 1.00 £
+PROD000004:Yaourt: 0.50 £
+---- Fin de la liste des suppléments ----
+
+Paiement réussi. Nouveau solde: 984.20£
+
+Ticket de Commande :
+Nom : John
+Prénom : Doe
+ID Commande : c7554dad-8a
+Date : 2023-12-01 17:10
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 4.80 £
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 984.20 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+
+Paiement réussi. Nouveau solde: 980.90£
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 980.90 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Veuillez sélectionner un supplément par son ID : exemple pour Coca-Cola rentrer PROD000001
+Liste des suppléments :
+PROD000001:Coca-Cola: 1.50 £
+PROD000002:Iced-Tea: 1.50 £
+PROD000003:Salade: 1.00 £
+PROD000004:Yaourt: 0.50 £
+---- Fin de la liste des suppléments ----
+
+Paiement réussi. Nouveau solde: 976.60£
+
+Ticket de Commande :
+Nom : John
+Prénom : Doe
+ID Commande : e2a486c3-92
+Date : 2023-12-01 17:38
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 4.30 £
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 976.60 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+
+Paiement réussi. Nouveau solde: 973.30£
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client non valide
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+ID de la caisse invalide (trop long ou contient des caractères spéciaux) vérif coté client .
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Erreur de connexion
+Vous avez été déconnecté.
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+ID de la caisse invalide (trop long ou contient des caractères spéciaux) vérif coté client .
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client non valide
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+ID de la caisse invalide (trop long ou contient des caractères spéciaux) vérif coté client .
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client non valide
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+ID de la caisse invalide (trop long ou contient des caractères spéciaux) vérif coté client .
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+ID de la caisse invalide (trop long ou contient des caractères spéciaux) vérif coté client .
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+ID de la caisse invalide (trop long ou contient des caractères spéciaux) vérif coté client .
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+ID de la caisse invalide (trop long ou contient des caractères spéciaux) vérif coté client .
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Erreur de format du numéro de caisse ou de numéro de caisse. Déconnexion...
+Entrez votre ID client : 
+Entrez l'id de la caisse : 
+ID de la caisse invalide (trop long ou contient des caractères spéciaux) vérif coté client .
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+ID de la caisse invalide (trop long ou contient des caractères spéciaux) vérif coté client .
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Entrez l'id de la caisse : 
+Erreur de format du numéro de caisse ou de numéro de caisse. Déconnexion...
+Entrez votre ID client : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Erreur de format du numéro de caisse ou de numéro de caisse. Déconnexion...
+Entrez votre ID client : 
+Réponse du serveur :
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Dudicourt,Léa
+votre solde actuel est de: 45.00 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Veuillez sélectionner un supplément par son ID : exemple pour Coca-Cola rentrer PROD000001
+Liste des suppléments :
+PROD000001:Coca-Cola: 1.50 £
+PROD000002:Iced-Tea: 1.50 £
+PROD000003:Salade: 1.00 £
+PROD000004:Yaourt: 0.50 £
+---- Fin de la liste des suppléments ----
+
+Paiement réussi. Nouveau solde: 40.20£
+
+Ticket de Commande :
+Nom : Dudicourt
+Prénom : Léa
+ID Commande : 14f96712-02
+Date : 2023-12-04 02:29
+Lieu : 24 allée de la cornue 87000 Limoges
+Nom Caissier : Hakima Diaz
+Prix Total : 4.80 £
+Vous avez été déconnecté.
+Veuillez vous tenir à cette syntaxe suivante : java Client.java <adresse_ip_serveur> <numéro_de_port>
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 508.80 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+
+Paiement réussi. Nouveau solde: 507.80£
+
+Ticket de Commande :
+Nom : Harry
+Prénom : Cover
+ID Commande : 178b7f36-20
+Date : 2023-12-04 02:50
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 1.00 £
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Entrez l'id de la caisse : 
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Entrez l'id de la caisse : 
+ID de la caisse invalide (trop long ou contient des caractères spéciaux ou des valeurs nulles) vérif coté client .
+Vous avez été déconnecté.
+Erreur de connexion
+Vous avez été déconnecté.
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Entrez l'id de la caisse : 
+Erreur de format du numéro de caisse ou de numéro de caisse. Déconnexion...
+Entrez votre ID client : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 507.80 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplément ? (oui/non)
+
+Paiement réussi. Nouveau solde: 506.80£
+
+Ticket de Commande :
+Nom : Harry
+Prénom : Cover
+ID Commande : f0c88055-fc
+Date : 2023-12-04 03:07
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 1.00 £
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Erreur de connexion
+Vous avez été déconnecté.
+Erreur de connexion
+Vous avez été déconnecté.
+Erreur de connexion
+Vous avez été déconnecté.
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+id de caisse valide , continuons ....
+Entrez votre ID client : 
+Réponse du serveur :
+id client valide , voici la liste des menus : MENU0001:Viande:3�30
+---- Fin de la liste des menus ----
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+
+Entrez votre ID client : 
+Réponse du serveur :
+khdbqjfd
+MENU0001:Viande:3�30
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 973.30 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+id de caisse valide , continuons ...
+Entrez votre ID client : 
+Vous avez été déconnecté.
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+id de caisse valide 
+Entrez votre ID client : 
+Réponse du serveur :
+Menu Izly:
+MENU0001:Viande: 3.30 �
+MENU0002:Poisson: 3.30 �
+MENU0003:Vegetarien: 3.30 �
+---- Fin de la liste des menus ----
+Veuillez s�lectionner un menu (rentrer l'id en face du type du menu)ddavez vous pris un supplement , oui/non ?
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Veuillez s�lectionner un menu (rentrer l'id en face du type du menu)ddavez vous pris un supplement , oui/non ?
+Entrez votre ID client : 
+Réponse du serveur :
+Menu Izly:
+MENU0001:Viande: 3.30 �
+MENU0002:Poisson: 3.30 �
+MENU0003:Vegetarien: 3.30 �
+---- Fin de la liste des menus ----
+Veuillez s�lectionner un menu (rentrer l'id en face du type du menu)
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 973.30 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Menu sélectionné non valide. Veuillez réessayer.
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 973.30 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Menu sélectionné non valide. Veuillez réessayer.
+ID client valide , Bienvenue : John,Doe
+votre solde actuel est de: 973.30 £ 
+Code tarif: 1
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplément ? (oui/non)
+Veuillez sélectionner un supplément par son ID : exemple pour Coca-Cola rentrer PROD000001
+Liste des suppléments :
+PROD000001:Coca-Cola: 1.50 £
+PROD000002:Iced-Tea: 1.50 £
+PROD000003:Salade: 1.00 £
+PROD000004:Yaourt: 0.50 £
+---- Fin de la liste des suppléments ----
+Supplément non valide, paiement refusé.
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+id de caisse valide , continuons ...
+Entrez votre ID client : 
+Réponse du serveur :
+id client valide Menu Izly:
+MENU0001:Viande: 3.30 �
+MENU0002:Poisson: 3.30 �
+MENU0003:Vegetarien: 3.30 �
+---- Fin de la liste des menus ----
+Veuillez s�lectionner un menu (rentrer l'id en face du type du menu)
+Avez-vous pris un suppl�ment ? (oui/non)
+Veuillez r�pondre en tapant par : (oui/non)oui
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+ok
+Entrez votre ID client : 
+Réponse du serveur :
+
+Menu Izly:
+MENU0001:Viande: 3.30 �
+MENU0002:Poisson: 3.30 �
+MENU0003:Vegetarien: 3.30 �
+---- Fin de la liste des menus ----
+Veuillez s�lectionner un menu (rentrer l'id en face du type du menu)Avez-vous pris un suppl�ment ? (oui/non)
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Entrez l'id de la caisse : 
+ID de la caisse invalide (trop long ou contient des caractères spéciaux ou des valeurs nulles) vérif coté client .
+Vous avez été déconnecté.
+Erreur de connexion
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+ok
+Entrez votre ID client : 
+Réponse du serveur :
+Menu Izly:
+MENU0001:Viande: 3.30 �
+MENU0002:Poisson: 3.30 �
+MENU0003:Vegetarien: 3.30 �
+---- Fin de la liste des menus ----
+Veuillez s�lectionner un menu (rentrer l'id en face du type du menu)Avez-vous pris un suppl�ment ?
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Entrez l'id de la caisse : 
+ok
+Entrez votre ID client : 
+Réponse du serveur :
+Menu Izly:
+MENU0001:Viande: 3.30 �
+MENU0002:Poisson: 3.30 �
+MENU0003:Vegetarien: 3.30 �
+---- Fin de la liste des menus ----
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Entrez l'id de la caisse : 
+ok
+Entrez votre ID client : 
+Réponse du serveur :
+Menu Izly:
+MENU0001:Viande: 3.30 �
+MENU0002:Poisson: 3.30 �
+MENU0003:Vegetarien: 3.30 �
+---- Fin de la liste des menus ----
+Veuillez s�lectionner un menu (rentrer l'id en face du type du menu)Avez-vous pris un supplement ? (oui/non)
+Liste des suppl�ments :
+PROD000001:Coca-Cola: 1.50 �
+PROD000002:Iced-Tea: 1.50 �
+PROD000003:Salade: 1.00 �
+PROD000004:Yaourt: 0.50 �
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Déconnecté en raison du serveur ayant mis du temps à répondre.
+Entrez l'id de la caisse : 
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Numéro de caisse valide ,Ce Terminal_Izly appartient au CROUS, Continuons...
+Entrez votre ID client : 
+Réponse du serveur :
+ID client valide , Bienvenue : Harry,Cover
+votre solde actuel est de: 506.80 £ 
+Code tarif: 98
+vous etes boursier , la réduction a été prise en compte.
+Menu Izly:
+MENU0001:Viande: 3.30 £
+MENU0002:Poisson: 3.30 £
+MENU0003:Vegetarien: 3.30 £
+---- Fin de la liste des menus ----
+Avez-vous pris un supplement ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplement ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplement ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplement ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplement ? (oui/non)
+Réponse non reconnue. Veuillez répondre par 'oui' ou 'non'.
+Avez-vous pris un supplement ? (oui/non)
+Veuillez sélectionner un supplément par son ID : exemple pour Coca-Cola rentrer PROD000001
+Liste des suppléments :
+PROD000001:Coca-Cola: 1.50 £
+PROD000002:Iced-Tea: 1.50 £
+PROD000003:Salade: 1.00 £
+PROD000004:Yaourt: 0.50 £
+---- Fin de la liste des suppléments ----
+
+Paiement réussi. Nouveau solde: 504.30£
+
+Ticket de Commande :
+Nom : Harry
+Prénom : Cover
+ID Commande : 3ed62363-10
+Date : 2023-12-04 09:06
+Lieu : 5 Avenue du Maréchal de Lattre de Tassigny, 75000 Paris
+Nom Caissier : John Test
+Prix Total : 2.50 £
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+id caisse reconnu
+Entrez votre ID client : 
+Réponse du serveur :
+Menu Izly:
+MENU0001:Viande: 3.30 �
+MENU0002:Poisson: 3.30 �
+MENU0003:Vegetarien: 3.30 �
+---- Fin de la liste des menus ----
+Veuillez s�lectionner un menu (rentrer l'id en face du type du menu)
+Entrez l'id de la caisse : 
+ID de la caisse invalide (trop long ou contient des caractères spéciaux ou des valeurs nulles) vérif coté client .
+Vous avez été déconnecté.
+Entrez l'id de la caisse : 
+Une connexion établie a été abandonnée par un logiciel de votre ordinateur hôte
+Vous avez été déconnecté.
